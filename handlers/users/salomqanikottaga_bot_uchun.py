@@ -2,6 +2,11 @@ from aiogram import types
 from googletrans import Translator
 from loader import dp
 
+
+
+
+
+
 tarjimon = Translator()
 
 # Echo bot
